@@ -14,3 +14,7 @@
 **1:-** `cp .env.example .env`
 
 **2:-** `docker compose up -d --build`
+
+# Or on Ubuntu/Debian:
+
+**1:-** `bash install.sh`
