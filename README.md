@@ -6,9 +6,11 @@
 
 **Requirement:-** `wget https://github.com/NotPhoenix07/HeronPanel/raw/main/HeronPanel.zip`
 
-**1 Command:-** `unzip HeronPanel.zip`
+**1:-** `unzip HeronPanel.zip`
 
-**2 Command:-** `cd HeronPanel`
+**2:-** `cd HeronPanel`
 
-**Run:-** `cp .env.example .env
-docker compose up -d --build`
+# Start Panel
+**1:-** `cp .env.example .env
+
+**2** docker compose up -d --build`
